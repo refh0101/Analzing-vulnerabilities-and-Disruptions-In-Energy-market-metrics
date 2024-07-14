@@ -26,13 +26,17 @@ The project is of paramount importance to Energix Enterprise use to the followin
 
 # Aim of the Project
 ✓ Resilience Planning: Create a comprehensive resilience plan outlining response procedures for various disruptions, ensuring business continuity.
+
 ✓ Upgrade Technology Infrastructure: Identify technology gaps and implement infrastructure upgrades for improved operational efficiency.
+
 ✓ Optimize Energy Production and Pricing: Implement data-driven strategies for optimizing energy production and pricing to maintain profitability.
+
 ✓ Data Analysis: Utilize historical data and market trends to identify vulnerabilities and potential disruption points in the energy market.
-Data Description
+
+# Data Description
 This case study contains 4 datasets, and they are as follows.
 
-# Historical Energy Data: 
+ Historical Energy Data: 
 
 ✓ Date/Time: Timestamp of the recorded data.
 
