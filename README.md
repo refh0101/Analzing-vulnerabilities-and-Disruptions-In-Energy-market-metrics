@@ -15,6 +15,7 @@ Aging Infrastructure and Technology Limitations: Aging infrastructure and outdat
 
 # Rationale for the Project
 ✓ Energy Market Resilience Metrics: This part suggests that the study or initiative involves measuring and assessing the resilience of the energy market. Resilience in this context likely means the ability of the energy market to withstand, adapt to, and quickly recover from various challenges or disruptions.
+
 ✓Analyzing Vulnerabilities: This indicates that the study aims to identify and understand the weaknesses or susceptibilities within the energy market. These vulnerabilities could be related to factors like infrastructure, supply chains, regulatory frameworks, or other aspects that could potentially be exploited or disrupted.
 The project is of paramount importance to Energix Enterprise use to the following reasons:
 
