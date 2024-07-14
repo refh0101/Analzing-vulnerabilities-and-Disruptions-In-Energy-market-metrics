@@ -1,6 +1,6 @@
 # Analzing-vulnerabilities-and-Disruptions-In-Energy-market-metrics
 
-#Business Overview/Problem
+# Business Overview/Problem
 Energix Enterprise currently faces several significant challenges:
 
  
