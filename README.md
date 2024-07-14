@@ -13,7 +13,7 @@ Regulatory Changes and Environmental Regulations: Evolving regulations and envir
 
 Aging Infrastructure and Technology Limitations: Aging infrastructure and outdated technology hinder operational efficiency, risk management, and the company's ability to adapt to market dynamics.
 
-#Rationale for the Project
+# Rationale for the Project
 ✓ Energy Market Resilience Metrics: This part suggests that the study or initiative involves measuring and assessing the resilience of the energy market. Resilience in this context likely means the ability of the energy market to withstand, adapt to, and quickly recover from various challenges or disruptions.
 ✓Analyzing Vulnerabilities: This indicates that the study aims to identify and understand the weaknesses or susceptibilities within the energy market. These vulnerabilities could be related to factors like infrastructure, supply chains, regulatory frameworks, or other aspects that could potentially be exploited or disrupted.
 The project is of paramount importance to Energix Enterprise use to the following reasons:
@@ -23,7 +23,7 @@ The project is of paramount importance to Energix Enterprise use to the followin
 ✓ Maintaining Competitiveness: By optimizing energy production and pricing strategies, the company aims to remain competitive in the face of increasing competition.
 ✓ Ensuring Compliance: The project is crucial for ensuring compliance with evolving regulatory requirements and minimizing the company's environmental impact.
 
-#Aim of the Project
+# Aim of the Project
 ✓ Resilience Planning: Create a comprehensive resilience plan outlining response procedures for various disruptions, ensuring business continuity.
 ✓ Upgrade Technology Infrastructure: Identify technology gaps and implement infrastructure upgrades for improved operational efficiency.
 ✓ Optimize Energy Production and Pricing: Implement data-driven strategies for optimizing energy production and pricing to maintain profitability.
@@ -31,7 +31,7 @@ The project is of paramount importance to Energix Enterprise use to the followin
 Data Description
 This case study contains 4 datasets, and they are as follows.
 
-#Historical Energy Data: 
+# Historical Energy Data: 
 
 ✓ Date/Time: Timestamp of the recorded data.
 
@@ -52,7 +52,7 @@ This case study contains 4 datasets, and they are as follows.
 
  
 
-#Market Data:
+# Market Data:
 
 ✓ Date/Time: Timestamp of the recorded market data.
 
@@ -67,7 +67,7 @@ This case study contains 4 datasets, and they are as follows.
 
  
 
-#Infrastructure and Maintenance Records:
+# Infrastructure and Maintenance Records:
 
 Date/Time: Timestamp of infrastructure and maintenance records.
 
@@ -80,7 +80,7 @@ Technology Limitations: Information about limitations and challenges posed by ex
 
  
 
-#Regulatory and Compliance Data:
+# Regulatory and Compliance Data:
 
 ✓ Date/Time: Timestamp of regulatory changes or compliance activities.
 
@@ -92,7 +92,7 @@ Technology Limitations: Information about limitations and challenges posed by ex
 
  
 
-#Libraries
+# Libraries
 
 Numpy: For performing mathematical operations over data
 
@@ -104,11 +104,11 @@ Seaborn: For Data Visualization
 
 Jupyter Notebook: For documenting and presenting the analysis.
 
-#Project Scope
+# Project Scope
 Data Collection and Preparation: Gather and clean data from various sources, ensuring data quality using Python.
 
 
-#Exploratory Data Analysis (EDA): 
+# Exploratory Data Analysis (EDA): 
 ✓ Explore historical trends, market dynamics, and key variables using Python. Identify patterns, outliers, and anomalies in the data using Python.
 
 ✓ Optimization Strategies: Develop pricing and production optimization strategies based on data analysis using Python. Implement strategies to adapt to changing market conditions using Python.
